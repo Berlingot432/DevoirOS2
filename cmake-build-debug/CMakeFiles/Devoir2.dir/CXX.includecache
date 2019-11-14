@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././Fleche.h
+
+/Users/simonduchesne/Desktop/devoirOS2/DevoirOs2/Devoir2/Fleche.cpp
+Fleche.h
+-
+
